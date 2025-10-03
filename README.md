@@ -2,6 +2,17 @@
 
 <h2 align="center">Backend Engineer | .NET Developer</h2>
 <br>
+<h3>🧑‍💻 About Me</h3>
+<p>
+I'm a dedicated **Backend Developer** who loves tackling complex problems by building **highly scalable APIs**.<br>
+🚀 My Focus Areas:
+
+* **Project-Driven Learning:** I love launching projects to confront new challenges and grow my skillset.
+* **AI for Optimization:** I actively use **Artificial Intelligence** to optimize solutions, improve performance, and establish technical best practices.
+* **Continuous Improvement:** I'm committed to improving my technical knowledge through regular **reading and research** into cutting-edge technologies.
+  
+<br>  
+</p>
   <p>
     <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
