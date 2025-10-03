@@ -5,7 +5,7 @@
 <h3>🧑‍💻 About Me</h3>
 <p>
 I'm a dedicated **Backend Developer** who loves tackling complex problems by building **highly scalable APIs**.<br>
-🚀 My Focus Areas:
+<h4>🚀 My Focus Areas:</h4>
 
 * **Project-Driven Learning:** I love launching projects to confront new challenges and grow my skillset.
 * **AI for Optimization:** I actively use **Artificial Intelligence** to optimize solutions, improve performance, and establish technical best practices.
