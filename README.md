@@ -15,7 +15,7 @@
 </p>
 
   <p>
-    <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk">
+    <a href="https://drive.google.com/file/d/1S41-ffy9GxZn3ztT0BmLyLF5bmgNyhrq/view?usp=drive_link">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
   </p>
 
