@@ -4,12 +4,12 @@
 <br>
 <h3>🧑‍💻 About Me</h3>
 <p>
-    I'm a dedicated <b>Backend Developer</b> who loves tackling complex problems by building <b>highly scalable APIs</b>.<br>
-<h4>🚀 My Focus Areas:</h4>
+ I'm a dedicated <b>Backend Developer</b> who loves tackling complex problems by building <b>highly scalable APIs</b>.<br>
+ <h4>🚀 My Focus Areas:</h4>
 
-* **Project-Driven Learning:** I love launching projects to confront new challenges and grow my skillset.
-* **AI for Optimization:** I actively use **Artificial Intelligence** to optimize solutions, improve performance, and establish technical best practices.
-* **Continuous Improvement:** I'm committed to improving my technical knowledge through regular **reading and research** into cutting-edge technologies.
+ * **Project-Driven Learning:** I love launching projects to confront new challenges and grow my skillset.
+ * **AI for Optimization:** I actively use **Artificial Intelligence** to optimize solutions, improve performance, and establish technical best practices.
+ * **Continuous Improvement:** I'm committed to improving my technical knowledge through regular **reading and research** into cutting-edge technologies.
   
 <br>  
 </p>
