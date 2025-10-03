@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohamed Hodaib</h1>
+<h1 align="center">👋 Hi, I'm Mohamed Hodaib</h1>
 
 <h2 align="center">Backend Engineer | .NET Developer</h2>
 <br>
