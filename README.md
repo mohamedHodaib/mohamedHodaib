@@ -4,7 +4,7 @@
 <br>
 <h3>🧑‍💻 About Me</h3>
 <p>
- I'm a dedicated <b>Backend Developer</b> who loves tackling complex problems by building <b>highly scalable APIs</b>.<br>
+ I'm a dedicated <b>Backend Developer</b> who loves tackling complex problems by building <b>highly scalable APIs</b>.I thrive on tackling complex engineering challenges and continuously hone my problem-solving skills, including through platforms like <b>LeetCode</b>.
  <h4>🚀 My Focus Areas:</h4>
 
  * **Project-Driven Learning:** I love launching projects to confront new challenges and grow my skillset.
